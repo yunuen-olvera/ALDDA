@@ -8,7 +8,7 @@ Este proyecto lo realicé durante los primeros meses de la materia curricular de
 
 ![ALDDA](ALDDA.png)  
 
-[Visítalo](https://yunuenolvera.netlify.app)  
+[Visítalo](https://aldda-practice.netlify.app)  
 
 ## Herramientas 🛠️
 - HTML  
