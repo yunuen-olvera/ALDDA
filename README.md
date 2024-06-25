@@ -6,7 +6,7 @@ El objetivo de este proyecto fue practicar y desarrollar nuestras habilidades en
 ## Descripción 📚  
 Este proyecto lo realicé durante los primeros meses de la materia curricular de Diseño Web, que forma parte de la carrera que cursé sobre Diseño y Comunicación Visual en la Universidad Marista de Querétaro (UMQ). Durante este período inicial, me dediqué intensamente a aplicar los conceptos teóricos aprendidos en clase, llevando a la práctica los principios del diseño web y explorando diversas técnicas y herramientas de desarrollo. La experiencia fue enriquecedora y fundamental para mi formación, ya que me permitió desarrollar una comprensión sólida de cómo se integran la estética visual y la funcionalidad en el entorno digital.  
 
-![ALDDA](ALDDA.jpeg)  
+![ALDDA](ALDDA.png)  
 
 [Visítalo](https://yunuenolvera.netlify.app)  
 
